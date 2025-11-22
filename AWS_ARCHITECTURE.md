@@ -1,8 +1,6 @@
 
 # 🏗️ MSP Intelligence Mesh - AWS Architecture Documentation
 
-**Generated**: 2025-10-17T05:18:41.754768
-
 ---
 
 ## 📋 System Overview
