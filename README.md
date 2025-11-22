@@ -58,7 +58,7 @@ The **MSP Intelligence Mesh Network** is a production-ready platform that solves
 1. **Clone the repository**
 ```bash
 git clone https://github.com/mrxvision97/MSP-Intelligence-Network-Federated-Learning-Approach.git
-cd msp-intelligence-network
+cd MSP-Intelligence-Network-Federated-Learning-Approach
 ```
 
 2. **Backend Setup**
